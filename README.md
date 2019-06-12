@@ -1,6 +1,6 @@
-# p5js-snippets
+# p5js-snippets i atom
 
-<img src="p5snippet.png" alt="drawing" width="100"/>
+<img src="p5snippet.png" alt="drawing" width="200"/>
 
 
 Legge til p5-snippets i Atom
