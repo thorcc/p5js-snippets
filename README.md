@@ -2,7 +2,7 @@
 
 Legge til p5-snippets i Atom
 Reference-style:
-![p5snippetHTML](p5snippet.png)
+![p5snippetHTML](p5snippet.png =100x)
 
 
  - Velg «snippets» under "file"/"atom" i menybaren
