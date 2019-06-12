@@ -1,8 +1,9 @@
 # p5js-snippets
 
+<img src="p5snippet.png" alt="drawing" width="100"/>
+
+
 Legge til p5-snippets i Atom
-Reference-style:
-![p5snippetHTML](p5snippet.png =100x)
 
 
  - Velg «snippets» under "file"/"atom" i menybaren
